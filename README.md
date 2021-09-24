@@ -7,7 +7,7 @@ Defender was one of the most important titles of the golden age of arcade video 
 
 Several ports were developed for contemporary game systems, most of them by either Atari, Inc. or its software label for non-Atari platforms, Atarisoft.
 
-![supergb](https://user-images.githubusercontent.com/14840708/134701370-d9f96387-db5c-4a30-8873-0e9047d39645.png)
+![defender](https://user-images.githubusercontent.com/14840708/134701480-fd64698f-a976-4f23-a6dd-4c836519703b.jpg)
 
 ## Gameplay
 Defender is a side-view, horizontally scrolling shooter set on the surface of an unnamed planet. The player controls a spaceship flying either to the left or right. A joystick controls the ship's elevation, and five buttons control its horizontal direction and weapons. The player starts with three "smart bombs", which destroy all visible enemies. As a last resort, the "hyperspace" button works as in Asteroids: the player's ship reappears in a random—possibly unsafe—location. Players are allotted three ships at the start of the game; another ship and smart bomb are awarded every 10,000 points (adjustable per machine). Two players can alternate turns.
